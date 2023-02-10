@@ -16,3 +16,9 @@ Projeto onde foi criado um menu digital de uma cafeteria onde pode ser acessado 
 
 ![preview](./assets/Screenshot_5.png)
 
+
+## Site do Projeto
+
+
+[Link do Projeto](https://tthiagoelifas.github.io/maratona-explorer-03/)
+
